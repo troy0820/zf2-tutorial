@@ -11,6 +11,9 @@
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.3.*"
     },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "~1.5"
+    },
     "autoload": {
         "psr-0": {
             "Album": "module/Album/src"

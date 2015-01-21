@@ -1,4 +1,4 @@
-Zend Framework 2 Tutorial
+Zend Framework 2 Tutorial [![Build Status](https://travis-ci.org/troy0820/zf2-tutorial.svg?branch=master)](https://travis-ci.org/troy0820/zf2-tutorial)
 =======================
 
 Introduction

@@ -18,6 +18,8 @@
         "psr-0": {
             "Album": "module/Album/src"
         }
-    }
-
+    },
+    "require-dev": {
+	"squizlabs/php_codesniffer":"2.*"
+	}
 }
